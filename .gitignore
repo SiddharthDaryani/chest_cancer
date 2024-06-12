@@ -121,6 +121,7 @@ celerybeat.pid
 
 # Environments
 .env
+chest_cancer_env
 .venv
 env/
 venv/
